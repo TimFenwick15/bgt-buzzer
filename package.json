@@ -1,0 +1,23 @@
+{
+  "name": "bgt-buzzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimFenwick15/bgt-buzzer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimFenwick15/bgt-buzzer/issues"
+  },
+  "homepage": "https://github.com/TimFenwick15/bgt-buzzer#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
