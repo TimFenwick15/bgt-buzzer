@@ -3,8 +3,4 @@
 # wsh.AppActivate('chrome.exe')
 # wsh.SendKeys('a')
 
-# wsh.AppActivate('notepad.exe')
-
-# open('file.txt', 'a').close()
-
 print('hello from python')
