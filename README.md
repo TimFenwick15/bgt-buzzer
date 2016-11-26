@@ -13,5 +13,6 @@ Todo:
 - [ ] Make the number of buzzer presses required to be configurable
 - [x] Keep a count of the number of buzzer GETs recieved
 - [x] Fix the Python keys script (or come up with another way to do this)
+- [ ] Allow one Buzzer press per person per X minutes
 - [ ] Error handling
 - [ ] Tests
