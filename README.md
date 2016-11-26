@@ -8,7 +8,10 @@ This will possibly be done with a Python script sending an 'end' key to the vide
 
 Todo:
 
-- [ ] Make a buzzer button web page
+- [-] Make a buzzer button web page
+- [ ] Style the buzzer
 - [ ] Make the number of buzzer presses required to be configurable
-- [ ] Keep a count of the number of buzzer GETs recieved
+- [-] Keep a count of the number of buzzer GETs recieved
 - [ ] Fix the Python keys script (or come up with another way to do this)
+- [ ] Error handling
+- [ ] Tests
