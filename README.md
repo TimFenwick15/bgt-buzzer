@@ -12,6 +12,6 @@ Todo:
 - [ ] Style the buzzer
 - [ ] Make the number of buzzer presses required to be configurable
 - [x] Keep a count of the number of buzzer GETs recieved
-- [ ] Fix the Python keys script (or come up with another way to do this)
+- [x] Fix the Python keys script (or come up with another way to do this)
 - [ ] Error handling
 - [ ] Tests
